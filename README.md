@@ -1,16 +1,30 @@
-## Hi there 👋
+## Oii, eu sou a Nana 💻🌙
 
-<!--
-**lais-viana/lais-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
+🌱 Atualmente aprendendo CSS, JavaScript e Python!
 
-Here are some ideas to get you started:
+🧠 tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Tecnologias que tô usando/estudando:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+---
+
+### 🗂️ Aqui você vai encontrar:
+- projetos de estudo, faculdade e devaneios
+- experimentos com front-end
+- uns caos que talvez virem portfólio um dia
+
+---
+
+📫 se quiser trocar uma ideia:  [meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-viana-357a34287/)
+
+
+
