@@ -11,6 +11,8 @@
   </a>
 </p>
 
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1260371184390770768)](https://dev.discordprofiles.me/openspotify/1260371184390770768)
+
 ---
 
 ### 💡 Tecnologias que tô usando e/ou estudando:
