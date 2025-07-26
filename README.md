@@ -3,7 +3,7 @@
 🪴 Eu sou a Laís, mas pode me chamar de Nid.   
 🌙 Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
 🎨 Atualmente aprendendo CSS, JavaScript e Python   
-🌱 Explorando a área de tech enquanto enfrento a faculdade, bugs e dúvidas existenciais   
+🌱 Explorando a área de tech enquanto enfrento a faculdade  
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 Tecnologias que tô usando e/ou estudando:
+### 💡 Tecnologias que estou usando e/ou estudando:
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
 ### 🗂️ Aqui você vai encontrar:
 - Projetos de estudo e faculdade
 - Experimentos com front-end
-- Uns caos que talvez virem portfólio um dia ??
+- Projetos que talvez virem portfólio um dia...?
 
 ---
 
