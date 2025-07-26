@@ -17,6 +17,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-viana&layout=compact&theme=date_night" />
+  </a>
+</p>
+
+---
+
 ### 🗂️ Aqui você vai encontrar:
 - Projetos de estudo e faculdade
 - Experimentos com front-end
