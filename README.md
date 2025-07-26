@@ -6,7 +6,7 @@
 
 ---
 
-### 💡 Tecnologias que tô usando/estudando:
+### 💡 Tecnologias que tô usando e/ou estudando:
 
 <div align="center">
   <a href="https://skillicons.dev">
