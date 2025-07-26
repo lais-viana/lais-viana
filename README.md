@@ -1,9 +1,8 @@
-## Oii, eu sou a Nana 💻🌙
+### Oii! Eu sou a Laís, mas pode me chamar de Nid.
 
-✨ Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
-🌱 Atualmente aprendendo CSS, JavaScript e Python!
-
-🧠 tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
+🎨 Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
+🌱 Atualmente aprendendo CSS, JavaScript e Python   
+🌟 Tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
 
 ---
 
@@ -18,13 +17,10 @@
 ---
 
 ### 🗂️ Aqui você vai encontrar:
-- projetos de estudo, faculdade e devaneios
-- experimentos com front-end
-- uns caos que talvez virem portfólio um dia
+- Projetos de estudo, faculdade e devaneios
+- Experimentos com front-end
+- Uns caos que talvez virem portfólio um dia ??
 
 ---
 
 📫 se quiser trocar uma ideia:  [meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-viana-357a34287/)
-
-
-
