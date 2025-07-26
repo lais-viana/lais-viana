@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-viana&layout=compact&theme=date_night" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-viana&layout=compact&theme=rose" />
   </a>
 </p>
 
