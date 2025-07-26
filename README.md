@@ -18,7 +18,7 @@
 ---
 
 ### 🗂️ Aqui você vai encontrar:
-- Projetos de estudo, faculdade e devaneios
+- Projetos de estudo e faculdade
 - Experimentos com front-end
 - Uns caos que talvez virem portfólio um dia ??
 
