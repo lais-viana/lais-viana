@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,php&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,php" />
   </a>
 </div>
 
