@@ -1,8 +1,9 @@
-### Oii! Eu sou a Laís, mas pode me chamar de Nid.
+### Oii! ⋆˚꩜.ᐟ 
 
-🎨 Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
-🌱 Atualmente aprendendo CSS, JavaScript e Python   
-🌟 Tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
+🪴 Eu sou a Laís, mas pode me chamar de Nid.   
+🌙 Estudante de Sistemas de Informação, com foco em desenvolvimento front-end   
+🎨 Atualmente aprendendo CSS, JavaScript e Python   
+🌱 Tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
 
 ---
 
