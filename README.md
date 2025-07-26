@@ -31,9 +31,3 @@
 ---
 
 📫 Caso queira falar comigo:  [meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-viana-357a34287/)
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://raw.githubusercontent.com/lais-viana/lais-viana/output/snake.svg" alt="Snake animation" />
-  </a>
-</div>
