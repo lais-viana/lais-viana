@@ -30,4 +30,4 @@
 
 ---
 
-📫 se quiser trocar uma ideia:  [meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-viana-357a34287/)
+📫 Caso queira falar comigo:  [meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-viana-357a34287/)
