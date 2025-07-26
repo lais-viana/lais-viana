@@ -5,6 +5,12 @@
 🎨 Atualmente aprendendo CSS, JavaScript e Python   
 🌱 Tentando descobrir meu caminho na tech enquanto sobrevivo à faculdade, bugs e existencialismo
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-viana&layout=compact&theme=rose" />
+  </a>
+</p>
+
 ---
 
 ### 💡 Tecnologias que tô usando e/ou estudando:
@@ -14,14 +20,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,php" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-viana&layout=compact&theme=rose" />
-  </a>
-</p>
 
 ---
 
